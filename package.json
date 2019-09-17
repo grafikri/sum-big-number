@@ -1,6 +1,6 @@
 {
   "name": "sum-big-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to sum big numbers",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
