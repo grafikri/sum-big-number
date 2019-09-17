@@ -11,11 +11,11 @@
     "test": "jest"
   },
   "bugs": {
-    "url": "https://github.com/grafikri/sum-big-number/issues"
+    "url": "https://github.com/grafikri/sum-big-numbers/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grafikri/sum-big-number.git"
+    "url": "git+https://github.com/grafikri/sum-big-numbers.git"
   },
   "keywords": [],
   "author": "Serhan Coşkun",
