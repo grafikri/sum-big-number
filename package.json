@@ -1,12 +1,32 @@
 {
   "name": "sum-big-number",
   "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A library to sum big numbers",
+  "main": "dist/index.js",
+  "types": "types/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepare": "npm run build",
+    "release": "np",
+    "build": "tsc",
+    "test": "jest"
+  },
+  "bugs": {
+    "url": "https://github.com/grafikri/sum-big-number/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grafikri/sum-big-number.git"
   },
   "keywords": [],
   "author": "Serhan Coşkun",
-  "license": "ISC"
+  "license": "ISC",
+  "files": [
+    "dist",
+    "types"
+  ],
+  "dependencies": {
+    "@types/node": "^12.7.5",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.6.3"
+  }
 }
