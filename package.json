@@ -24,7 +24,7 @@
     "dist",
     "types"
   ],
-  "dependencies": {
+  "devDependencies": {
     "@types/node": "^12.7.5",
     "ts-jest": "^24.1.0",
     "typescript": "^3.6.3"
