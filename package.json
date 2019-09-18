@@ -17,14 +17,18 @@
     "type": "git",
     "url": "git+https://github.com/grafikri/sum-big-numbers.git"
   },
-  "keywords": [],
+  "keywords": [
+    "sum",
+    "huge",
+    "numbers"
+  ],
   "author": "Serhan Coşkun",
   "license": "ISC",
   "files": [
     "dist",
     "types"
   ],
-  "dependencies": {
+  "devDependencies": {
     "@types/node": "^12.7.5",
     "ts-jest": "^24.1.0",
     "typescript": "^3.6.3"
