@@ -1,5 +1,7 @@
 You can sum numbers that cannot execute in javascript.
 
+[![install size](https://packagephobia.now.sh/badge?p=sum-big-numbers)](https://packagephobia.now.sh/result?p=sum-big-numbers)
+
 ## Install
 
 ```
