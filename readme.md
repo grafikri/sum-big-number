@@ -1,6 +1,6 @@
 You can sum numbers that cannot execute in javascript.
 
-[![install size](https://packagephobia.now.sh/badge?p=sum-big-numbers)](https://packagephobia.now.sh/result?p=sum-big-numbers)
+[![Build Status](https://travis-ci.org/sindresorhus/got.svg?branch=master)](https://travis-ci.org/sindresorhus/got) [![install size](https://packagephobia.now.sh/badge?p=sum-big-numbers)](https://packagephobia.now.sh/result?p=sum-big-numbers)
 
 ## Install
 
