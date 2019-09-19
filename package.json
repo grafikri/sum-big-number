@@ -6,7 +6,6 @@
   "types": "types/index.d.ts",
   "scripts": {
     "prepare": "npm run build",
-    "release": "np",
     "build": "tsc",
     "test": "jest"
   },
