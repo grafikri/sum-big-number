@@ -5,8 +5,8 @@
   "main": "dist/index.js",
   "types": "types/index.d.ts",
   "scripts": {
+    "release": "np $npm_package_version",
     "prepare": "npm run build",
-    "release": "np",
     "build": "tsc",
     "test": "jest"
   },
